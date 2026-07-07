@@ -54,7 +54,7 @@ Here are the system layouts, circuit diagrams, and web application dashboards lo
 
 | System Dashboard | Hardware Prototype & Circuitry |
 | :---: | :---: |
-| <img src="View/dashboard_preview.png" width="450" alt="React Dashboard UI"/> | <img src="View/hardware_setup.png" width="450" alt="ESP32 Hardware Circuit"/> |
+| <img src="View/interface.png" width="450" alt="React Dashboard UI"/> | <img src="View/analys.png" width="450" alt="ESP32 Hardware Circuit"/> |
 | *Real-time metrics, anomaly alert panels, and device control logs.* | *ESP32-S3 bridge node connected with peripheral sensor arrays.* |
 
 *(Note: Please rename the file paths inside the `View/` folder placeholder links above to match your actual image file names.)*
