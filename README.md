@@ -57,8 +57,6 @@ Here are the system layouts, circuit diagrams, and web application dashboards lo
 | <img src="View/interface.png" width="450" alt="React Dashboard UI"/> | <img src="View/analys.jpeg" width="450" alt="ESP32 Hardware Circuit"/> |
 | *Real-time metrics, anomaly alert panels, and device control logs.* | *ESP32-S3 bridge node connected with peripheral sensor arrays.* |
 
-*(Note: Please rename the file paths inside the `View/` folder placeholder links above to match your actual image file names.)*
-
 ---
 
 ## 🛠 Tech Stack & Hardware Components
@@ -131,4 +129,5 @@ If the computed absolute Z-Score exceeds a predetermined threshold (e.g., $|Z| >
 ## 🧑‍💻 Author & Acknowledgments
 
 *   **Furkan Baran** - Fourth-Year Computer Engineering Student.
-*   Special thanks to my graduation project advisor (**Hoca**) for providing valuable feedback, structural architectural guidance, and reporting criteria improvements throughout the project lifecycle.
+*   **Cabir Coşkun** - Fourth-Year Computer Engineering Student.
+*   Special thanks to my graduation project advisor (**Dr. Erkan Uslu**) for providing valuable feedback, structural architectural guidance, and reporting criteria improvements throughout the project lifecycle.
